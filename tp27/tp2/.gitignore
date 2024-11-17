@@ -1,0 +1,7 @@
+*.d
+*.o
+*.elf
+*.elf.map
+*.hex
+*.hpp
+*.json

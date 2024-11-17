@@ -1,0 +1,12 @@
+*.d
+*.o
+*.elf
+*.elf.map
+*.hex
+*.hpp
+*.json
+<<<<<<< HEAD
+*.vscode
+=======
+.vscode
+>>>>>>> a0b33e549275c29448cc1f3a476f3ce2f121cd5f
